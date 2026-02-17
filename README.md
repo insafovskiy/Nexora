@@ -1,4 +1,4 @@
-# Nexora — Cloud AI Code Testing Platform
+# 🚀 Nexora — Cloud AI Code Testing Platform
 
 Nexora is a cloud-based platform for automatic code verification using containerized execution, AI-generated tests, and quality metrics.
 
